@@ -16,9 +16,9 @@ Descripción de las funciones creadas en `services.py` para gestionar vehículos
 
 ## Pruebas
 
-![Captura de pantalla de la aplicación](img/1.png)
+![Captura de pantalla de la aplicación](imgs/1.png)
 
-![Captura de pantalla de la aplicación](img/2.png)
+![Captura de pantalla de la aplicación](imgs/2.png)
 
-![Captura de pantalla de la aplicación](img/3.png)
+![Captura de pantalla de la aplicación](imgs/3.png)
 
